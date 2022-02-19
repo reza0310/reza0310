@@ -9,4 +9,5 @@
 ### A propos de mon profil
 
 - Les projets documentés sont épinglés
+- Les repos dans l'onglet "stars" de mon profil sont triés dans les listes
 - Les trois petits points dans ma bio c'est parce que j'avais plus de place
