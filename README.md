@@ -1,10 +1,11 @@
 ## A propos de moi
 
+- ![reza0310's GitHub stats](https://github-readme-stats.vercel.app/api?username=reza0310&show_icons=true&theme=chartreuse-dark)
 - Etudiant à l'EPITA
 - Programme activement depuis fin fin 2019. 
 - A étudié avec l'option NSI, a tout de suite adoré et commencé à en faire en loisir, a étudié à l'EPSI de Septembre 2021 à Février 2022
 - Si vous cherchez des créateurs motivés n'hésitez pas à me contacter je vous dirais ce que je peux faire pour vous aider
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza0310&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza0310&langs_count=10&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## A propos de mon profil
 
@@ -39,10 +40,15 @@
         - Début: 19/02/2022
         - Fin principale: 20/02/2022
         - Dernière modification: 20/02/2022
+
 ### Concepts mathématiques / informatiques
 - [Steganographie](https://github.com/reza0310/steganographie) (Pas encore documenté ni commenté)
+    - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reza0310&repo=steganographie&theme=chartreuse-dark)](https://github.com/reza0310/steganographie)
 - [Fibonacci](https://github.com/reza0310/fibonacci) (Pas encore documenté ni commenté)
+    - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reza0310&repo=fibonacci&theme=chartreuse-dark)](https://github.com/reza0310/fibonacci)
 - [ASCII_ART](https://github.com/reza0310/ASCII_ART) (Pas encore documenté ni commenté)
+    - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reza0310&repo=ASCII_ART&theme=chartreuse-dark)](https://github.com/reza0310/ASCII_ART)
+
 ### Projets scolaires
 - [Projet Trading Python POO](https://github.com/reza0310/ProjetTradingPythonPOO) (Pas encore commenté)
     - Description:
@@ -54,15 +60,18 @@
         - Fin principale: 20/02/2022
         - Dernière modification: 20/02/2022
 - [Travail d'histoire](https://github.com/reza0310/travail_histoire) (Pas encore documenté ni commenté)
+
 ### Projets pratiques
 - [Plat du jour](https://github.com/reza0310/plat_du_jour) (Pas encore documenté ni commenté)
 - [Fabrikamo](https://github.com/reza0310/fabrikamo) (Pas encore documenté ni commenté)
 - [Tunnel de fichiers](https://github.com/reza0310/tunnel_de_fichiers) (Pas encore documenté ni commenté)
 - [Pèse dossiers](https://github.com/reza0310/pese_dossiers) (Pas encore documenté ni commenté)
+
 ### Projets artistiques
 - [Background](https://github.com/reza0310/background) (Pas encore documenté ni commenté)
 - [Spirales](https://github.com/reza0310/spirales_turtle) (Pas encore documenté ni commenté)
 - [Random pixels](https://github.com/reza0310/random_pixels) (Pas encore documenté ni commenté)
+
 ### Projets Kivy
 - [FRAMEWORK](https://github.com/reza0310/Framework-Kivy) (Pas encore documenté ni commenté)
 - N°1: [Premier service](https://github.com/reza0310/Appli_Kivy_1-Premierservice---broken) (Fonctionne pas)
@@ -72,8 +81,10 @@
 - N°5: Privé (Origine de la V2 de mon framework)
 - N°6: Pong (Pas encore fait) (Utilise la V2 de mon framework)
 - N°7: Messagerie en ligne simple (Pas encore fait) (Utilise la V2 de mon framework)
+
 ### Projets Bots Discord
 - [Jaques le joueur](https://github.com/reza0310/Jaques-le-Joueur) (Pas encore à jour sur Github ni commenté ni documenté)
+
 ### Projets auxquels j'ai contribué
 - [Beagleboys](https://github.com/benjaminforest/beagleboys) (Documenté [ici](https://github.com/reza0310/ProjetTradingPythonPOO))
     - Description:
@@ -85,4 +96,5 @@
         - Début: 04/02/2022
         - Fin principale: 15/02/2022
         - Dernière modification: 15/02/2022
+
 ### Pour mes projets web, checkez mon site (http://www.odaame.org)
