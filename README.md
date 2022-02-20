@@ -92,6 +92,8 @@
 
 ### Projets auxquels j'ai contribué
 - [Beagleboys](https://github.com/benjaminforest/beagleboys) (Documenté [ici](https://github.com/reza0310/ProjetTradingPythonPOO))
+    - Carte:
+        - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=benjaminforest&repo=beagleboys&theme=chartreuse-dark&show_owner=true)](https://github.com/benjaminforest/beagleboys)
     - Description:
         - Une base de code pour mettre en compétition plusieurs bots de Trading. Projet scolaire noté.
     - Auteurs:
