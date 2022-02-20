@@ -43,14 +43,19 @@
 
 ### Concepts mathématiques / informatiques
 - [Steganographie](https://github.com/reza0310/steganographie) (Pas encore documenté ni commenté)
-    - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reza0310&repo=steganographie&theme=chartreuse-dark)](https://github.com/reza0310/steganographie)
+    - Carte:
+        - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reza0310&repo=steganographie&theme=chartreuse-dark)](https://github.com/reza0310/steganographie)
 - [Fibonacci](https://github.com/reza0310/fibonacci) (Pas encore documenté ni commenté)
-    - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reza0310&repo=fibonacci&theme=chartreuse-dark)](https://github.com/reza0310/fibonacci)
+    - Carte:
+        - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reza0310&repo=fibonacci&theme=chartreuse-dark)](https://github.com/reza0310/fibonacci)
 - [ASCII_ART](https://github.com/reza0310/ASCII_ART) (Pas encore documenté ni commenté)
-    - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reza0310&repo=ASCII_ART&theme=chartreuse-dark)](https://github.com/reza0310/ASCII_ART)
+    - Carte:
+        - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reza0310&repo=ASCII_ART&theme=chartreuse-dark)](https://github.com/reza0310/ASCII_ART)
 
 ### Projets scolaires
 - [Projet Trading Python POO](https://github.com/reza0310/ProjetTradingPythonPOO) (Pas encore commenté)
+    - Carte:
+        - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reza0310&repo=ProjetTradingPythonPOO&theme=chartreuse-dark)](https://github.com/reza0310/ProjetTradingPythonPOO)
     - Description:
         - Un projet scolaire de bot de trading en compétition avec mes camarades. Travail de groupe.
     - Auteurs:
