@@ -4,8 +4,11 @@
 - Programme activement depuis fin fin 2019. 
 - A étudié avec l'option NSI, a tout de suite adoré et commencé à en faire en loisir, a étudié à l'EPSI de Septembre 2021 à Février 2022
 - Si vous cherchez des créateurs motivés n'hésitez pas à me contacter je vous dirais ce que je peux faire pour vous aider
-- ![reza0310's GitHub stats](https://github-readme-stats.vercel.app/api?username=reza0310&show_icons=true&theme=chartreuse-dark)
+- [![reza0310's GitHub stats](https://github-readme-stats.vercel.app/api?username=reza0310&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+- Languages les plus utilisés par poids des fichiers:
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza0310&langs_count=10&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+- Languages les plus utilisés par quatité de projets:
+- [<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?reza0310" frameborder="0"></iframe>](http://ionicabizau.github.io/github-profile-languages/)
 
 ## A propos de mon profil
 
