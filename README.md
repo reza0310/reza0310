@@ -7,8 +7,8 @@
 - [![reza0310's GitHub stats](https://github-readme-stats.vercel.app/api?username=reza0310&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 - Languages les plus utilisés par poids des fichiers:
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza0310&langs_count=10&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-- Languages les plus utilisés par quatité de projets:
-- [<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?reza0310" frameborder="0"></iframe>](http://ionicabizau.github.io/github-profile-languages/)
+- Languages les plus utilisés par quantité de projets:
+- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?reza0310" frameborder="0"></iframe>
 
 ## A propos de mon profil
 
