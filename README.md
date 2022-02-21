@@ -8,7 +8,7 @@
 - Languages les plus utilisés par poids des fichiers:
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza0310&langs_count=10&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 - Languages les plus utilisés par quantité de projets:
-- [<img src="https://github.com/reza0310/reza0310/blob/main/autre.png" width="2em" style="invert(1);">](https://ionicabizau.github.io/github-profile-languages/api.html?reza0310)
+- [<img src="https://github.com/reza0310/reza0310/blob/main/autre.png" style="invert(1);">](https://ionicabizau.github.io/github-profile-languages/api.html?reza0310)
 
 ## A propos de mon profil
 
