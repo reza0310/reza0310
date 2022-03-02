@@ -63,6 +63,7 @@
         - Un projet de NSI poussé plus loin pour le fun. Est optimisé pour calculer au plus vite de grandes valeurs de la suite de fibonacci.
     - Auteurs:
         - reza0310
+        - Chachoune963
     - Dates:
         - Début: ??/??/????
         - Fin principale: ??/??/????
