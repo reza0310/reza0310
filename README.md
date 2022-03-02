@@ -1,4 +1,4 @@
-## A propos de moi
+# A propos de moi
 
 - Etudiant à l'EPITA
 - Programme activement depuis fin fin 2019. 
@@ -10,21 +10,21 @@
 - Languages les plus utilisés par quantité de projets:
 - [<img src="https://github.com/reza0310/reza0310/blob/main/autre_inverse.PNG" width="35%" style="filter: invert(1);">](https://ionicabizau.github.io/github-profile-languages/api.html?reza0310)
 
-## A propos de mon profil
+# A propos de mon profil
 
 - Les projets documentés sont épinglés
 - Les repos dans l'onglet "stars" de mon profil sont triés dans les listes
 - Les trois petits points dans ma bio c'est parce que j'avais plus de place
 
-## Me contacter
+# Me contacter
 
 - Mail: Les adresses "reza031077@yahoo.fr" et "michelageou@gmail.com" m'appartiennent
 - Discord: reza0310#0310
 - Clef PGP: [cliquez ici](https://github.com/reza0310/reza0310/blob/main/more_secure_key.txt)
 
-## Mes projets
+# Mes projets
 
-### Tutoriels
+## Tutoriels
 - [Comment contribuer à un projet open source avec github?](https://github.com/reza0310/Tutorials/tree/contribute)
     - Description:
         - Un tutoriel pour découvrir avec quels outils on peut aider un projet open source et comment les utiliser.
@@ -44,7 +44,7 @@
         - Fin principale: 20/02/2022
         - Dernière modification: 20/02/2022
 
-### Concepts mathématiques / informatiques
+## Concepts mathématiques / informatiques
 - [Steganographie](https://github.com/reza0310/steganographie)
     - Carte:
         - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reza0310&repo=steganographie&theme=chartreuse-dark)](https://github.com/reza0310/steganographie)
@@ -79,7 +79,7 @@
         - Fin principale: ??/??/????
         - Dernière modification: ??/??/????
 
-### Projets scolaires
+## Projets scolaires
 - [Projet Trading Python POO](https://github.com/reza0310/ProjetTradingPythonPOO)
     - Carte:
         - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reza0310&repo=ProjetTradingPythonPOO&theme=chartreuse-dark)](https://github.com/reza0310/ProjetTradingPythonPOO)
@@ -104,7 +104,7 @@
         - Fin principale: ??/??/????
         - Dernière modification: ??/??/????
 
-### Projets pratiques
+## Projets pratiques
 - [Plat du jour](https://github.com/reza0310/plat_du_jour) (Pas encore documenté ni commenté)
     - Carte:
         - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reza0310&repo=plat_du_jour&theme=chartreuse-dark)](https://github.com/reza0310/plat_du_jour)
@@ -150,7 +150,7 @@
         - Fin principale: ??/??/????
         - Dernière modification: ??/??/????
 
-### Projets artistiques
+## Projets artistiques
 - [Background](https://github.com/reza0310/background) (Pas encore documenté ni commenté)
     - Carte:
         - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reza0310&repo=background&theme=chartreuse-dark)](https://github.com/reza0310/background)
@@ -185,7 +185,7 @@
         - Fin principale: ??/??/????
         - Dernière modification: ??/??/????
 
-### Projets Kivy
+## Projets Kivy
 - [FRAMEWORK](https://github.com/reza0310/Framework-Kivy) (Pas encore documenté ni commenté)
     - Carte:
         - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reza0310&repo=Framework-Kivy&theme=chartreuse-dark)](https://github.com/reza0310/Framework-Kivy)
@@ -245,10 +245,10 @@
 - N°6: Pong tuto (Pas encore fait) (Utilise la V2 de mon framework)
 - N°7: Messagerie en ligne simple tuto (Pas encore fait) (Utilise la V2 de mon framework)
 
-### Projets Bots Discord
+## Projets Bots Discord
 - [Jaques le joueur](https://github.com/reza0310/Jaques-le-Joueur) (Pas encore à jour sur Github ni commenté ni documenté)
 
-### Projets auxquels j'ai contribué
+## Projets auxquels j'ai contribué
 - [Beagleboys](https://github.com/benjaminforest/beagleboys) (Documenté [ici](https://github.com/reza0310/ProjetTradingPythonPOO))
     - Carte:
         - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=benjaminforest&repo=beagleboys&theme=chartreuse-dark&show_owner=true)](https://github.com/benjaminforest/beagleboys)
@@ -262,4 +262,4 @@
         - Fin principale: 15/02/2022
         - Dernière modification: 15/02/2022
 
-### Pour mes projets web, checkez mon site (http://www.odaame.org)
+## Pour mes projets web, checkez mon site (http://www.odaame.org)
