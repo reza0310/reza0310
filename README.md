@@ -18,8 +18,13 @@
 
 # Me contacter
 
-- Mail: Les adresses "reza031077@yahoo.fr" et "michelageou@gmail.com" m'appartiennent
-- Discord: reza0310#0310
+- Mail: Les adresses "[reza031077@yahoo.fr](mailto:reza031077@yahoo.fr)" et "[michelageou@gmail.com](mailto:michelageou@gmail.com)" m'appartiennent
+- Discord: reza0310#0310 (utilisez ça de préférence)
+- Telegram: [lien](https://t.me/reza031077)
+- YouTube: [lien](https://www.youtube.com/channel/UCcOfToXFwhMynyEh3yVD-yg)
+- StackOverflow: [lien](https://stackoverflow.com/users/12816132/reza0310)
+- CodingGame: [lien](https://www.codingame.com/profile/5a1ec5b4e038a646a92acd0eb7a0f34d5523683)
+- Reddit: [lien](https://www.reddit.com/user/reza0310)
 - Clef PGP: [cliquez ici](https://github.com/reza0310/reza0310/blob/main/more_secure_key.txt)
 
 # Mes projets
